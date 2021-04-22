@@ -1,3 +1,5 @@
 # offset_piston_motion
 
-Simple scripts to demonstrate offset piston motion using Python and matplotlib
+Simple script to demonstrate offset piston motion using Python and Matplotlib
+
+![offset piston motion gif](offset_piston_motion.gif)
